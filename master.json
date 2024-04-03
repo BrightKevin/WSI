@@ -1,20 +1,238 @@
-"Products": {
-  "Sugar~https://github.com/BrightKevin/WSI/blob/main/sugar.jpg?raw=true": {
-    "1Kg~https://github.com/BrightKevin/WSI/blob/main/sugar.jpg?raw=true": {
-      "Amana Sugar 1Kg~https://naivas.online/100727-home_default/amana-sugar-1-kg.jpg": {
-        "I": "https://naivas.online/100727-home_default/amana-sugar-1-kg.jpg",
-        "P": {
-          "Naivas": "193~https://naivas.online/eggs/isinya-eggs-30-pieces",
-          "Copia": "200~https://naivas.online/eggs/isinya-eggs-30-pieces",
-          "Unga Limited": "210~https://naivas.online/eggs/isinya-eggs-30-pieces",
-          "E-mart": "195~https://naivas.online/eggs/isinya-eggs-30-pieces",
-          "Air Duka": "200~https://naivas.online/eggs/isinya-eggs-30-pieces",
-          "Beeqasi": "199~https://naivas.online/eggs/isinya-eggs-30-pieces",
-          "Alladin": "193~https://naivas.online/eggs/isinya-eggs-30-pieces",
-          "Jumia": "193~https://naivas.online/eggs/isinya-eggs-30-pieces",
-          "Kilimall": "193~https://naivas.online/eggs/isinya-eggs-30-pieces",
-          "Kasha": "193~https://naivas.online/eggs/isinya-eggs-30-pieces"
+{
+  "WindowShopper": {
+    "Products": {
+      "White Sugar~https://github.com/BrightKevin/WSI/blob/main/sugar.jpg?raw=true": {
+        "1Kg": {
+          "Amana Sugar 1Kg~https://cdnprod.mafretailproxy.com/sys-master-root/h9a/h37/52157175070750/1700Wx1700H_215360_main.jpg": {
+            "P": {
+              "Naivas": "193~https://naivas.online/eggs/isinya-eggs-30-pieces",
+              "Copia": "200~https://naivas.online/eggs/isinya-eggs-30-pieces",
+              "Unga Limited": "210~https://naivas.online/eggs/isinya-eggs-30-pieces",
+              "E-mart": "195~https://naivas.online/eggs/isinya-eggs-30-pieces",
+              "Air Duka": "200~https://naivas.online/eggs/isinya-eggs-30-pieces",
+              "Beeqasi": "199~https://naivas.online/eggs/isinya-eggs-30-pieces",
+              "Alladin": "193~https://naivas.online/eggs/isinya-eggs-30-pieces",
+              "Jumia": "193~https://naivas.online/eggs/isinya-eggs-30-pieces",
+              "Kilimall": "193~https://naivas.online/eggs/isinya-eggs-30-pieces",
+              "Kasha": "193~https://naivas.online/eggs/isinya-eggs-30-pieces"
+            }
+          }
+        },
+        "2Kg": {
+          "Mumias Sugar 2Kg~https://images.yaoota.com/HYaXaVblAbCGatsmb4sIr97fmi4=/trim/fit-in/840x840/filters:quality(100)/yaootaweb-production-ke/media/crawledproductimages/ccbd2dac50e0e98c540d88c2cc2e9fad45585b10.jpg": {
+            "P": {
+              "E-mart": "130~https://naivas.online/eggs/isinya-eggs-30-pieces",
+              "Alladin": "140~https://naivas.online/eggs/isinya-eggs-30-pieces",
+              "Air Duka": "145~https://naivas.online/eggs/isinya-eggs-30-pieces",
+              "Beeqasi": "135~https://naivas.online/eggs/isinya-eggs-30-pieces"
+            }
+          }
         }
+      },
+      "Maize Flour~https://github.com/BrightKevin/WSI/blob/main/Maize%20Flour.jpg?raw=true": {
+        "2Kg": {
+          "Raha Maize Meal 2Kg~https://africanshed.com/cdn/shop/files/RAHA_110x110@2x.png?v=1691159570": {
+            "P": {
+              "E-mart": "205~https://naivas.online/eggs/isinya-eggs-30-pieces",
+              "Alladin": "230~https://naivas.online/eggs/isinya-eggs-30-pieces",
+              "Air Duka": "220~https://naivas.online/eggs/isinya-eggs-30-pieces",
+              "Beeqasi": "190~https://naivas.online/eggs/isinya-eggs-30-pieces"
+            }
+          }
+        }
+      },
+      "Rice~https://github.com/BrightKevin/WSI/blob/main/Rice.jpg?raw=true": {
+        "5Kg": {
+          "Ranee Basmati Rice 5Kg~https://cdnprod.mafretailproxy.com/sys-master-root/hea/h73/12462438219806/31976_Main.jpg_480Wx480H": {
+            "P": {
+              "JamboPay": "525~https://naivas.online/eggs/isinya-eggs-30-pieces",
+              "MyBigOrder": "530~https://naivas.online/eggs/isinya-eggs-30-pieces",
+              "Metro Mart": "520~https://naivas.online/eggs/isinya-eggs-30-pieces",
+              "Neo King Shop": "530~https://naivas.online/eggs/isinya-eggs-30-pieces"
+            }
+          },
+          "Daawat Basmati Rice 5Kg~https://www.artcaffemarket.co.ke/wp-content/uploads/2021/09/Untitled-design-2021-09-18T131744.238.png": {
+            "P": {
+              "Carrefour": "1799~https://www.carrefour.ke/mafken/en/indian-basmati-rice/daawat-basmati-rice-5kg/p/21751",
+              "E-mart": "1569~https://naivas.online/eggs/isinya-eggs-30-pieces",
+              "MSuper": "705~https://naivas.online/eggs/isinya-eggs-30-pieces",
+              "Unga Limited": "950~https://www.artcaffemarket.co.ke/product/daawat-long-grain-rice/"
+            }
+          }
+        }
+      },
+      "Cooking Oil": {
+      },
+      "Soft Drinks": {
+      },
+      "Alcoholic Drinks": {
+      },
+      "Water": {
+      },
+      "Fruits": {
+      },
+      "Petrol Engines": {
+      },
+      "Men's Clothes": {
+      }
+    },
+    "Shops": {
+      "Naivas": {
+        "210 Maize Meal Flour 2 KgφMaize FlourφMaize Flour 2Kg": "210~https://naivas.online/100822-home_default/210-maize-meal-flour-2-kg.jpg~https://naivas.online/eggs/isinya-eggs-30-pieces",
+        "Amana Yellow Beans 1 KgφAlternate": "280~https://naivas.online/100729-home_default/amana-yellow-beans-1-kg.jpg~https://naivas.online/cereals-and-pulses/amana-yellow-beans-1-kg"
+      },
+      "Carrefour": {
+        "Exe Maize Meal Flour 2 KgφMaize FlourφMaize Flour 2Kg": "245~https://dukazuri.co.ke/wp-content/uploads/2019/08/Jogoo-Maize-Meal-2kg.jpg~https://naivas.online/eggs/isinya-eggs-30-pieces",
+        "Amana Yellow Beans 1 KgφAlternate": "280~https://naivas.online/100729-home_default/amana-yellow-beans-1-kg.jpg~https://naivas.online/cereals-and-pulses/amana-yellow-beans-1-kg"
+      },
+      "Jumia": {
+        "1": ""
+      },
+      "Kilimall": {
+        "1": ""
+      },
+      "MyBigOrder": {
+        "1": ""
+      },
+      "JamboPay": {
+        "1": ""
+      },
+      "Alladin": {
+        "1": ""
+      },
+      "E-mart": {
+        "1": ""
+      },
+      "MSuper": {
+        "1": ""
+      },
+      "Neo King Shop": {
+        "1": ""
+      },
+      "Copia": {
+        "1": ""
+      },
+      "Air Duka": {
+        "1": ""
+      },
+      "Unga Limited": {
+        "1": ""
+      },
+      "Packed Mart": {
+        "1": ""
+      },
+      "Ni Ya Leo": {
+        "1": ""
+      },
+      "Avechi": {
+        "1": ""
+      },
+      "Anisuma": {
+        "1": ""
+      },
+      "Jambo Shoppe": {
+        "1": ""
+      },
+      "Zuchinni": {
+        "1": ""
+      },
+      "PhonePlace": {
+        "1": ""
+      },
+      "PhonesStore": {
+        "1": ""
+      },
+      "Digital Store": {
+        "1": ""
+      },
+      "FoneXpress": {
+        "1": ""
+      },
+      "Zuri": {
+        "1": ""
+      },
+      "SmartBuy": {
+        "1": ""
+      },
+      "My Dawa": {
+        "1": ""
+      },
+      "Pharmaplus Pharmacy": {
+        "1": ""
+      },
+      "Shopit": {
+        "1": ""
+      },
+      "Kasha": {
+        "1": ""
+      },
+      "Metro Mart": {
+        "1": ""
+      },
+      "Duka Zuri": {
+        "1": ""
+      },
+      "GoBeba": {
+        "1": ""
+      },
+      "The Royal Pets": {
+        "1": ""
+      },
+      "ARMCO": {
+        "1": ""
+      },
+      "GreenSpoon": {
+        "1": ""
+      },
+      "Nairobi Computer Shop": {
+        "1": ""
+      },
+      "The Health Cart>": {
+        "1": ""
+      },
+      "HotPoint": {
+        "1": ""
+      },
+      "Grand Hub Technologies": {
+        "1": ""
+      },
+      "Ramtons": {
+        "1": ""
+      },
+      "XIAOMI": {
+        "1": ""
+      },
+      "Beeqasi": {
+        "1": ""
+      },
+      "43": {
+        "1": ""
+      },
+      "44": {
+        "1": ""
+      },
+      "45": {
+        "1": ""
+      },
+      "46": {
+        "1": ""
+      },
+      "47": {
+        "1": ""
+      },
+      "48": {
+        "1": ""
+      },
+      "49": {
+        "1": ""
+      },
+      "50": {
+        "1": ""
+      }
+    },
+    "Trending": {},
+    "Cities": {
+        "Nairobi": ""
       }
     }
   }
