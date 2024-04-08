@@ -1,6 +1,5 @@
 {
-  "Kenya~www": {
-    "Products": {
+  "Products": {
       "White Sugar~https://github.com/BrightKevin/WSI/blob/main/sugar.jpg?raw=true": {
         "1Kg": {
           "Amana Sugar 1Kg~https://cdnprod.mafretailproxy.com/sys-master-root/h9a/h37/52157175070750/1700Wx1700H_215360_main.jpg": {
@@ -232,5 +231,4 @@
         "Nairobi": ""
       }
     }
-  }  
 }
